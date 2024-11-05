@@ -1,0 +1,182 @@
+  5%|▌         | 1/20 [00:02<00:53,  2.84s/it]epoch:1, loss:0.7083, train_acc:0.5193, test_acc:0.5552, best_record:0.5552  save the model to ./weights/torch\g1_test.pth
+ 10%|█         | 2/20 [00:05<00:50,  2.79s/it]epoch:2, loss:0.6894, train_acc:0.5502, test_acc:0.5651, best_record:0.5651  save the model to ./weights/torch\g1_test.pth
+epoch:3, loss:0.6864, train_acc:0.5569, test_acc:0.5699, best_record:0.5699  save the model to ./weights/torch\g1_test.pth
+ 20%|██        | 4/20 [00:11<00:44,  2.81s/it]epoch:4, loss:0.6845, train_acc:0.5593, test_acc:0.5672, best_record:0.5699
+epoch:5, loss:0.6832, train_acc:0.5622, test_acc:0.5674, best_record:0.5699
+ 30%|███       | 6/20 [00:16<00:39,  2.80s/it]epoch:6, loss:0.6809, train_acc:0.5719, test_acc:0.5708, best_record:0.5708  save the model to ./weights/torch\g1_test.pth
+epoch:7, loss:0.6763, train_acc:0.5849, test_acc:0.5789, best_record:0.5789  save the model to ./weights/torch\g1_test.pth
+ 40%|████      | 8/20 [00:22<00:33,  2.80s/it]epoch:8, loss:0.6796, train_acc:0.5751, test_acc:0.557, best_record:0.5789
+ 45%|████▌     | 9/20 [00:25<00:30,  2.81s/it]epoch:9, loss:0.6766, train_acc:0.5765, test_acc:0.5859, best_record:0.5859  save the model to ./weights/torch\g1_test.pth
+epoch:10, loss:0.6729, train_acc:0.5941, test_acc:0.5846, best_record:0.5859
+ 55%|█████▌    | 11/20 [00:30<00:25,  2.81s/it]epoch:11, loss:0.6711, train_acc:0.5977, test_acc:0.5828, best_record:0.5859
+ 60%|██████    | 12/20 [00:33<00:22,  2.83s/it]epoch:12, loss:0.6677, train_acc:0.597, test_acc:0.5938, best_record:0.5938  save the model to ./weights/torch\g1_test.pth
+ 65%|██████▌   | 13/20 [00:36<00:19,  2.80s/it]epoch:13, loss:0.6747, train_acc:0.5793, test_acc:0.5945, best_record:0.5945  save the model to ./weights/torch\g1_test.pth
+epoch:14, loss:0.6701, train_acc:0.5957, test_acc:0.5997, best_record:0.5997  save the model to ./weights/torch\g1_test.pth
+ 75%|███████▌  | 15/20 [00:42<00:14,  2.82s/it]epoch:15, loss:0.6664, train_acc:0.5994, test_acc:0.5938, best_record:0.5997
+epoch:16, loss:0.6649, train_acc:0.6025, test_acc:0.6024, best_record:0.6024  save the model to ./weights/torch\g1_test.pth
+ 85%|████████▌ | 17/20 [00:47<00:08,  2.79s/it]epoch:17, loss:0.6623, train_acc:0.6067, test_acc:0.5988, best_record:0.6024
+epoch:18, loss:0.6626, train_acc:0.6044, test_acc:0.5997, best_record:0.6024
+ 95%|█████████▌| 19/20 [00:53<00:02,  2.76s/it]epoch:19, loss:0.6633, train_acc:0.6053, test_acc:0.5986, best_record:0.6024
+epoch:20, loss:0.6561, train_acc:0.6136, test_acc:0.6104, best_record:0.6104  save the model to ./weights/torch\g1_test.pth
+100%|██████████| 20/20 [00:55<00:00,  2.80s/it]
+  5%|▌         | 1/20 [00:02<00:50,  2.68s/it]epoch:1, loss:0.6957, train_acc:0.4977, test_acc:0.5002, best_record:0.5002  save the model to ./weights/torch\g2_test.pth
+ 10%|█         | 2/20 [00:05<00:48,  2.68s/it]epoch:2, loss:0.6949, train_acc:0.4953, test_acc:0.4953, best_record:0.5002
+epoch:3, loss:0.6938, train_acc:0.5026, test_acc:0.5097, best_record:0.5097  save the model to ./weights/torch\g2_test.pth
+ 20%|██        | 4/20 [00:10<00:43,  2.69s/it]epoch:4, loss:0.6937, train_acc:0.4992, test_acc:0.4943, best_record:0.5097
+epoch:5, loss:0.6935, train_acc:0.5034, test_acc:0.4986, best_record:0.5097
+ 30%|███       | 6/20 [00:16<00:38,  2.74s/it]epoch:6, loss:0.6935, train_acc:0.5019, test_acc:0.5052, best_record:0.5097
+ 35%|███▌      | 7/20 [00:18<00:35,  2.73s/it]epoch:7, loss:0.6934, train_acc:0.5003, test_acc:0.5005, best_record:0.5097
+epoch:8, loss:0.6935, train_acc:0.501, test_acc:0.4957, best_record:0.5097
+ 45%|████▌     | 9/20 [00:24<00:29,  2.71s/it]epoch:9, loss:0.6933, train_acc:0.4994, test_acc:0.498, best_record:0.5097
+epoch:10, loss:0.693, train_acc:0.5038, test_acc:0.5147, best_record:0.5147  save the model to ./weights/torch\g2_test.pth
+ 55%|█████▌    | 11/20 [00:29<00:24,  2.72s/it]epoch:11, loss:0.6932, train_acc:0.5054, test_acc:0.4937, best_record:0.5147
+ 60%|██████    | 12/20 [00:32<00:21,  2.70s/it]epoch:12, loss:0.6934, train_acc:0.4966, test_acc:0.5018, best_record:0.5147
+ 65%|██████▌   | 13/20 [00:35<00:18,  2.70s/it]epoch:13, loss:0.6932, train_acc:0.5021, test_acc:0.5002, best_record:0.5147
+epoch:14, loss:0.6933, train_acc:0.5001, test_acc:0.5118, best_record:0.5147
+ 75%|███████▌  | 15/20 [00:40<00:13,  2.71s/it]epoch:15, loss:0.6934, train_acc:0.4972, test_acc:0.5016, best_record:0.5147
+ 80%|████████  | 16/20 [00:43<00:10,  2.70s/it]epoch:16, loss:0.6933, train_acc:0.5005, test_acc:0.5142, best_record:0.5147
+epoch:17, loss:0.6933, train_acc:0.4997, test_acc:0.5036, best_record:0.5147
+ 90%|█████████ | 18/20 [00:48<00:05,  2.68s/it]epoch:18, loss:0.6931, train_acc:0.5036, test_acc:0.5115, best_record:0.5147
+ 95%|█████████▌| 19/20 [00:51<00:02,  2.68s/it]epoch:19, loss:0.693, train_acc:0.5049, test_acc:0.5111, best_record:0.5147
+100%|██████████| 20/20 [00:54<00:00,  2.70s/it]
+epoch:20, loss:0.6932, train_acc:0.5057, test_acc:0.5041, best_record:0.5147
+
+
+  5%|▌         | 1/20 [00:02<00:53,  2.81s/it]epoch:1, loss:0.7246, train_acc:0.5121, test_acc:0.5678, best_record:0.5678  save the model to ./weights/torch\g1_test.pth
+epoch:2, loss:0.6981, train_acc:0.531, test_acc:0.5622, best_record:0.5678
+ 15%|█▌        | 3/20 [00:08<00:46,  2.74s/it]epoch:3, loss:0.6934, train_acc:0.5415, test_acc:0.5663, best_record:0.5678
+epoch:4, loss:0.6868, train_acc:0.5533, test_acc:0.5676, best_record:0.5678
+ 25%|██▌       | 5/20 [00:13<00:41,  2.78s/it]epoch:5, loss:0.688, train_acc:0.55, test_acc:0.5656, best_record:0.5678
+ 30%|███       | 6/20 [00:16<00:39,  2.80s/it]epoch:6, loss:0.6842, train_acc:0.5603, test_acc:0.5633, best_record:0.5678
+epoch:7, loss:0.6831, train_acc:0.5625, test_acc:0.5667, best_record:0.5678
+ 40%|████      | 8/20 [00:22<00:34,  2.85s/it]epoch:8, loss:0.6799, train_acc:0.5706, test_acc:0.5669, best_record:0.5678
+ 45%|████▌     | 9/20 [00:25<00:31,  2.85s/it]epoch:9, loss:0.6786, train_acc:0.575, test_acc:0.5744, best_record:0.5744  save the model to ./weights/torch\g1_test.pth
+epoch:10, loss:0.6776, train_acc:0.5795, test_acc:0.5726, best_record:0.5744
+ 55%|█████▌    | 11/20 [00:30<00:25,  2.80s/it]epoch:11, loss:0.6732, train_acc:0.5884, test_acc:0.5848, best_record:0.5848  save the model to ./weights/torch\g1_test.pth
+epoch:12, loss:0.6747, train_acc:0.583, test_acc:0.559, best_record:0.5848
+ 65%|██████▌   | 13/20 [00:36<00:19,  2.83s/it]epoch:13, loss:0.6743, train_acc:0.5832, test_acc:0.5891, best_record:0.5891  save the model to ./weights/torch\g1_test.pth
+ 70%|███████   | 14/20 [00:39<00:16,  2.83s/it]epoch:14, loss:0.6715, train_acc:0.5902, test_acc:0.5871, best_record:0.5891
+epoch:15, loss:0.6688, train_acc:0.5992, test_acc:0.5916, best_record:0.5916  save the model to ./weights/torch\g1_test.pth
+ 80%|████████  | 16/20 [00:45<00:11,  2.82s/it]epoch:16, loss:0.6712, train_acc:0.5957, test_acc:0.5911, best_record:0.5916
+epoch:17, loss:0.6676, train_acc:0.5987, test_acc:0.6004, best_record:0.6004  save the model to ./weights/torch\g1_test.pth
+ 90%|█████████ | 18/20 [00:51<00:05,  2.91s/it]epoch:18, loss:0.6663, train_acc:0.5985, test_acc:0.5975, best_record:0.6004
+epoch:19, loss:0.6671, train_acc:0.6013, test_acc:0.5945, best_record:0.6004
+100%|██████████| 20/20 [00:56<00:00,  2.84s/it]
+  0%|          | 0/20 [00:00<?, ?it/s]epoch:20, loss:0.6631, train_acc:0.6052, test_acc:0.6038, best_record:0.6038  save the model to ./weights/torch\g1_test.pth
+epoch:1, loss:0.6959, train_acc:0.5057, test_acc:0.4998, best_record:0.4998  save the model to ./weights/torch\g2_test.pth
+ 10%|█         | 2/20 [00:05<00:48,  2.68s/it]epoch:2, loss:0.6949, train_acc:0.5002, test_acc:0.4995, best_record:0.4998
+ 15%|█▌        | 3/20 [00:08<00:47,  2.82s/it]epoch:3, loss:0.6942, train_acc:0.5011, test_acc:0.4998, best_record:0.4998
+ 20%|██        | 4/20 [00:11<00:44,  2.77s/it]epoch:4, loss:0.6942, train_acc:0.4987, test_acc:0.4957, best_record:0.4998
+ 25%|██▌       | 5/20 [00:13<00:41,  2.75s/it]epoch:5, loss:0.6939, train_acc:0.4989, test_acc:0.4998, best_record:0.4998  save the model to ./weights/torch\g2_test.pth
+epoch:6, loss:0.6935, train_acc:0.5055, test_acc:0.5043, best_record:0.5043  save the model to ./weights/torch\g2_test.pth
+ 35%|███▌      | 7/20 [00:19<00:35,  2.75s/it]epoch:7, loss:0.6936, train_acc:0.4978, test_acc:0.5047, best_record:0.5047  save the model to ./weights/torch\g2_test.pth
+ 40%|████      | 8/20 [00:22<00:34,  2.88s/it]epoch:8, loss:0.6935, train_acc:0.5003, test_acc:0.5047, best_record:0.5047
+epoch:9, loss:0.6932, train_acc:0.5063, test_acc:0.5102, best_record:0.5102  save the model to ./weights/torch\g2_test.pth
+ 50%|█████     | 10/20 [00:27<00:27,  2.78s/it]epoch:10, loss:0.6933, train_acc:0.5026, test_acc:0.5027, best_record:0.5102
+ 55%|█████▌    | 11/20 [00:30<00:24,  2.77s/it]epoch:11, loss:0.6933, train_acc:0.5038, test_acc:0.4982, best_record:0.5102
+epoch:12, loss:0.6935, train_acc:0.5013, test_acc:0.5066, best_record:0.5102
+ 65%|██████▌   | 13/20 [00:35<00:18,  2.71s/it]epoch:13, loss:0.6936, train_acc:0.496, test_acc:0.4977, best_record:0.5102
+ 70%|███████   | 14/20 [00:38<00:16,  2.80s/it]epoch:14, loss:0.6932, train_acc:0.4973, test_acc:0.5025, best_record:0.5102
+ 75%|███████▌  | 15/20 [00:41<00:13,  2.80s/it]epoch:15, loss:0.6933, train_acc:0.5011, test_acc:0.498, best_record:0.5102
+epoch:16, loss:0.6933, train_acc:0.4995, test_acc:0.4991, best_record:0.5102
+ 85%|████████▌ | 17/20 [00:47<00:08,  2.75s/it]epoch:17, loss:0.6935, train_acc:0.4946, test_acc:0.4975, best_record:0.5102
+epoch:18, loss:0.6932, train_acc:0.4994, test_acc:0.4957, best_record:0.5102
+ 95%|█████████▌| 19/20 [00:52<00:02,  2.72s/it]epoch:19, loss:0.693, train_acc:0.5057, test_acc:0.4959, best_record:0.5102
+100%|██████████| 20/20 [00:55<00:00,  2.76s/it]
+epoch:20, loss:0.6931, train_acc:0.5046, test_acc:0.509, best_record:0.5102
+
+  5%|▌         | 1/20 [00:02<00:56,  2.97s/it]epoch:1, loss:0.7249, train_acc:0.5167, test_acc:0.5414, best_record:0.5414  save the model to ./weights/torch\g1_test.pth
+epoch:2, loss:0.6984, train_acc:0.5284, test_acc:0.5667, best_record:0.5667  save the model to ./weights/torch\g1_test.pth
+ 15%|█▌        | 3/20 [00:08<00:47,  2.81s/it]epoch:3, loss:0.6893, train_acc:0.5422, test_acc:0.5393, best_record:0.5667
+ 20%|██        | 4/20 [00:11<00:44,  2.77s/it]epoch:4, loss:0.6874, train_acc:0.5487, test_acc:0.5669, best_record:0.5669  save the model to ./weights/torch\g1_test.pth
+ 25%|██▌       | 5/20 [00:13<00:41,  2.77s/it]epoch:5, loss:0.6866, train_acc:0.555, test_acc:0.5683, best_record:0.5683  save the model to ./weights/torch\g1_test.pth
+epoch:6, loss:0.6818, train_acc:0.5683, test_acc:0.5728, best_record:0.5728  save the model to ./weights/torch\g1_test.pth
+ 35%|███▌      | 7/20 [00:19<00:36,  2.79s/it]epoch:7, loss:0.6817, train_acc:0.569, test_acc:0.5708, best_record:0.5728
+epoch:8, loss:0.6775, train_acc:0.5766, test_acc:0.5801, best_record:0.5801  save the model to ./weights/torch\g1_test.pth
+ 45%|████▌     | 9/20 [00:25<00:30,  2.78s/it]epoch:9, loss:0.6737, train_acc:0.5872, test_acc:0.5803, best_record:0.5803  save the model to ./weights/torch\g1_test.pth
+epoch:10, loss:0.6733, train_acc:0.5884, test_acc:0.5735, best_record:0.5803
+ 55%|█████▌    | 11/20 [00:30<00:24,  2.75s/it]epoch:11, loss:0.6729, train_acc:0.5856, test_acc:0.5889, best_record:0.5889  save the model to ./weights/torch\g1_test.pth
+ 60%|██████    | 12/20 [00:33<00:22,  2.77s/it]epoch:12, loss:0.6771, train_acc:0.5809, test_acc:0.5739, best_record:0.5889
+ 65%|██████▌   | 13/20 [00:36<00:19,  2.75s/it]epoch:13, loss:0.6734, train_acc:0.5946, test_acc:0.5837, best_record:0.5889
+epoch:14, loss:0.6704, train_acc:0.5949, test_acc:0.5925, best_record:0.5925  save the model to ./weights/torch\g1_test.pth
+ 75%|███████▌  | 15/20 [00:41<00:13,  2.75s/it]epoch:15, loss:0.6688, train_acc:0.5981, test_acc:0.5882, best_record:0.5925
+ 80%|████████  | 16/20 [00:44<00:10,  2.73s/it]epoch:16, loss:0.6658, train_acc:0.6, test_acc:0.5963, best_record:0.5963  save the model to ./weights/torch\g1_test.pth
+epoch:17, loss:0.6642, train_acc:0.6066, test_acc:0.5907, best_record:0.5963
+ 90%|█████████ | 18/20 [00:49<00:05,  2.80s/it]epoch:18, loss:0.665, train_acc:0.6011, test_acc:0.5844, best_record:0.5963
+epoch:19, loss:0.6684, train_acc:0.5925, test_acc:0.5923, best_record:0.5963
+100%|██████████| 20/20 [00:55<00:00,  2.80s/it]
+  0%|          | 0/20 [00:00<?, ?it/s]epoch:20, loss:0.6623, train_acc:0.6047, test_acc:0.5941, best_record:0.5963
+epoch:1, loss:0.6958, train_acc:0.5018, test_acc:0.5, best_record:0.5  save the model to ./weights/torch\g2_test.pth
+ 10%|█         | 2/20 [00:05<00:51,  2.85s/it]epoch:2, loss:0.6952, train_acc:0.496, test_acc:0.4989, best_record:0.5
+epoch:3, loss:0.694, train_acc:0.5021, test_acc:0.5005, best_record:0.5005  save the model to ./weights/torch\g2_test.pth
+ 20%|██        | 4/20 [00:11<00:44,  2.75s/it]epoch:4, loss:0.694, train_acc:0.4983, test_acc:0.4989, best_record:0.5005
+epoch:5, loss:0.6939, train_acc:0.4992, test_acc:0.4973, best_record:0.5005
+ 30%|███       | 6/20 [00:16<00:38,  2.78s/it]epoch:6, loss:0.6936, train_acc:0.5046, test_acc:0.505, best_record:0.505  save the model to ./weights/torch\g2_test.pth
+ 35%|███▌      | 7/20 [00:19<00:36,  2.79s/it]epoch:7, loss:0.6935, train_acc:0.4988, test_acc:0.5072, best_record:0.5072  save the model to ./weights/torch\g2_test.pth
+epoch:8, loss:0.6935, train_acc:0.5004, test_acc:0.5029, best_record:0.5072
+ 45%|████▌     | 9/20 [00:25<00:32,  2.97s/it]epoch:9, loss:0.6932, train_acc:0.5013, test_acc:0.5016, best_record:0.5072
+ 50%|█████     | 10/20 [00:28<00:29,  2.92s/it]epoch:10, loss:0.6935, train_acc:0.5019, test_acc:0.5095, best_record:0.5095  save the model to ./weights/torch\g2_test.pth
+epoch:11, loss:0.6932, train_acc:0.5002, test_acc:0.5057, best_record:0.5095
+ 60%|██████    | 12/20 [00:34<00:23,  2.88s/it]epoch:12, loss:0.6932, train_acc:0.5034, test_acc:0.5057, best_record:0.5095
+epoch:13, loss:0.6932, train_acc:0.5002, test_acc:0.5072, best_record:0.5095
+ 70%|███████   | 14/20 [00:40<00:17,  2.93s/it]epoch:14, loss:0.6931, train_acc:0.5037, test_acc:0.5054, best_record:0.5095
+epoch:15, loss:0.6931, train_acc:0.5001, test_acc:0.4966, best_record:0.5095
+ 80%|████████  | 16/20 [00:46<00:12,  3.05s/it]epoch:16, loss:0.693, train_acc:0.5054, test_acc:0.5045, best_record:0.5095
+ 85%|████████▌ | 17/20 [00:49<00:09,  3.03s/it]epoch:17, loss:0.6932, train_acc:0.5012, test_acc:0.5036, best_record:0.5095
+epoch:18, loss:0.6931, train_acc:0.5038, test_acc:0.5043, best_record:0.5095
+ 95%|█████████▌| 19/20 [00:55<00:02,  3.00s/it]epoch:19, loss:0.6932, train_acc:0.4984, test_acc:0.505, best_record:0.5095
+epoch:20, loss:0.6933, train_acc:0.5011, test_acc:0.5023, best_record:0.5095
+100%|██████████| 20/20 [00:58<00:00,  2.94s/it]
+
+
+  5%|▌         | 1/20 [00:04<01:16,  4.05s/it]epoch:1, loss:0.6926, train_acc:0.522, test_acc:0.5416, best_record:0.5416  save the model to ./weights/torch\g1_test.pth
+ 10%|█         | 2/20 [00:07<01:11,  3.96s/it]epoch:2, loss:0.6879, train_acc:0.5487, test_acc:0.5613, best_record:0.5613  save the model to ./weights/torch\g1_test.pth
+ 15%|█▌        | 3/20 [00:12<01:10,  4.13s/it]epoch:3, loss:0.6847, train_acc:0.5595, test_acc:0.5683, best_record:0.5683  save the model to ./weights/torch\g1_test.pth
+epoch:4, loss:0.6804, train_acc:0.5749, test_acc:0.5685, best_record:0.5685  save the model to ./weights/torch\g1_test.pth
+ 25%|██▌       | 5/20 [00:20<00:59,  3.99s/it]epoch:5, loss:0.6813, train_acc:0.5737, test_acc:0.5785, best_record:0.5785  save the model to ./weights/torch\g1_test.pth
+ 30%|███       | 6/20 [00:24<00:56,  4.03s/it]epoch:6, loss:0.675, train_acc:0.5849, test_acc:0.5599, best_record:0.5785
+ 35%|███▌      | 7/20 [00:28<00:52,  4.00s/it]epoch:7, loss:0.6748, train_acc:0.5876, test_acc:0.5839, best_record:0.5839  save the model to ./weights/torch\g1_test.pth
+epoch:8, loss:0.6784, train_acc:0.576, test_acc:0.5758, best_record:0.5839
+ 45%|████▌     | 9/20 [00:35<00:43,  3.94s/it]epoch:9, loss:0.6726, train_acc:0.5928, test_acc:0.5929, best_record:0.5929  save the model to ./weights/torch\g1_test.pth
+epoch:10, loss:0.6686, train_acc:0.5987, test_acc:0.5896, best_record:0.5929
+ 55%|█████▌    | 11/20 [00:43<00:35,  3.97s/it]epoch:11, loss:0.6732, train_acc:0.5852, test_acc:0.5728, best_record:0.5929
+epoch:12, loss:0.6675, train_acc:0.5991, test_acc:0.5909, best_record:0.5929
+ 65%|██████▌   | 13/20 [00:51<00:27,  3.95s/it]epoch:13, loss:0.6662, train_acc:0.5961, test_acc:0.5898, best_record:0.5929
+epoch:14, loss:0.6652, train_acc:0.5954, test_acc:0.5859, best_record:0.5929
+ 75%|███████▌  | 15/20 [00:59<00:19,  3.91s/it]epoch:15, loss:0.6625, train_acc:0.6051, test_acc:0.5977, best_record:0.5977  save the model to ./weights/torch\g1_test.pth
+ 80%|████████  | 16/20 [01:03<00:15,  3.89s/it]epoch:16, loss:0.6624, train_acc:0.6054, test_acc:0.5981, best_record:0.5981  save the model to ./weights/torch\g1_test.pth
+epoch:17, loss:0.6646, train_acc:0.6055, test_acc:0.571, best_record:0.5981
+ 90%|█████████ | 18/20 [01:11<00:07,  3.89s/it]epoch:18, loss:0.6704, train_acc:0.5951, test_acc:0.5948, best_record:0.5981
+epoch:19, loss:0.6676, train_acc:0.5957, test_acc:0.5972, best_record:0.5981
+100%|██████████| 20/20 [01:19<00:00,  3.95s/it]
+  0%|          | 0/20 [00:00<?, ?it/s]epoch:20, loss:0.6576, train_acc:0.6083, test_acc:0.6038, best_record:0.6038  save the model to ./weights/torch\g1_test.pth
+  5%|▌         | 1/20 [00:04<01:18,  4.14s/it]epoch:1, loss:0.6947, train_acc:0.4987, test_acc:0.5005, best_record:0.5005  save the model to ./weights/torch\g2_test.pth
+ 10%|█         | 2/20 [00:08<01:14,  4.15s/it]epoch:2, loss:0.6943, train_acc:0.5009, test_acc:0.5009, best_record:0.5009  save the model to ./weights/torch\g2_test.pth
+ 15%|█▌        | 3/20 [00:12<01:11,  4.23s/it]epoch:3, loss:0.6938, train_acc:0.4988, test_acc:0.4995, best_record:0.5009
+epoch:4, loss:0.6938, train_acc:0.5003, test_acc:0.5007, best_record:0.5009
+ 25%|██▌       | 5/20 [00:20<01:01,  4.09s/it]epoch:5, loss:0.6937, train_acc:0.4974, test_acc:0.4993, best_record:0.5009
+ 30%|███       | 6/20 [00:24<00:57,  4.13s/it]epoch:6, loss:0.6934, train_acc:0.5017, test_acc:0.5007, best_record:0.5009
+ 35%|███▌      | 7/20 [00:29<00:54,  4.16s/it]epoch:7, loss:0.6935, train_acc:0.4996, test_acc:0.4984, best_record:0.5009
+ 40%|████      | 8/20 [00:33<00:50,  4.23s/it]epoch:8, loss:0.6935, train_acc:0.4983, test_acc:0.498, best_record:0.5009
+ 45%|████▌     | 9/20 [00:37<00:46,  4.22s/it]epoch:9, loss:0.6936, train_acc:0.5008, test_acc:0.5, best_record:0.5009
+ 50%|█████     | 10/20 [00:41<00:41,  4.18s/it]epoch:10, loss:0.6935, train_acc:0.5001, test_acc:0.4991, best_record:0.5009
+epoch:11, loss:0.6933, train_acc:0.5016, test_acc:0.5047, best_record:0.5047  save the model to ./weights/torch\g2_test.pth
+ 60%|██████    | 12/20 [00:49<00:33,  4.14s/it]epoch:12, loss:0.6935, train_acc:0.4979, test_acc:0.4977, best_record:0.5047
+ 65%|██████▌   | 13/20 [00:54<00:28,  4.14s/it]epoch:13, loss:0.6937, train_acc:0.4999, test_acc:0.5009, best_record:0.5047
+epoch:14, loss:0.6934, train_acc:0.4992, test_acc:0.4998, best_record:0.5047
+ 75%|███████▌  | 15/20 [01:02<00:20,  4.09s/it]epoch:15, loss:0.6933, train_acc:0.5034, test_acc:0.5104, best_record:0.5104  save the model to ./weights/torch\g2_test.pth
+ 80%|████████  | 16/20 [01:06<00:16,  4.06s/it]epoch:16, loss:0.6933, train_acc:0.5028, test_acc:0.5129, best_record:0.5129  save the model to ./weights/torch\g2_test.pth
+ 85%|████████▌ | 17/20 [01:10<00:12,  4.15s/it]epoch:17, loss:0.6934, train_acc:0.4996, test_acc:0.5127, best_record:0.5129
+ 90%|█████████ | 18/20 [01:14<00:08,  4.11s/it]epoch:18, loss:0.6931, train_acc:0.5033, test_acc:0.5158, best_record:0.5158  save the model to ./weights/torch\g2_test.pth
+ 95%|█████████▌| 19/20 [01:18<00:04,  4.06s/it]epoch:19, loss:0.6933, train_acc:0.5016, test_acc:0.5228, best_record:0.5228  save the model to ./weights/torch\g2_test.pth
+100%|██████████| 20/20 [01:22<00:00,  4.12s/it]
+epoch:20, loss:0.6929, train_acc:0.509, test_acc:0.5362, best_record:0.5362  save the model to ./weights/torch\g2_test.pth
+
+
+
+
+
+
+
+
+

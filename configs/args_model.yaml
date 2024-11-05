@@ -1,0 +1,31 @@
+#feature_size: 136
+lm_dropout_rate: 0.1
+#rnn_unit: 32
+num_layers: 1
+#rnn_dropout_rate: 0
+fc_dropout_rate: 0.5
+#res_hidden: 64
+
+
+
+
+# feature_size: 136
+# lm_dropout_rate: 0.1
+# rnn_unit: 32
+# num_layers: 1
+# rnn_dropout_rate: 0
+# fc_dropout_rate: 0.5
+# res_hidden: 64
+#baselin and our model ags
+
+
+# 模型配置参数
+# feature_size: 136          # 输入特征的大小，CNN 层的输入通道数
+# lm_dropout_rate: 0.1       # Landmark Dropout 的丢弃率
+# rnn_unit: 32               # GRU 隐藏单元数量（GRU 输出维度为 rnn_unit * 2，因为是双向）
+# num_layers: 1              # GRU 层数
+# rnn_dropout_rate: 0        # GRU 中的 dropout 比率
+# fc_dropout_rate: 0.5       # 全连接层的 dropout 比率
+# res_hidden: 64             # Residual 层中的隐藏单元数量
+# cnn_channels: 64           # CNN 输出通道数
+#CNN+RNN ags
